@@ -1,0 +1,20 @@
+version: "3"
+
+tasks:
+  init:
+    desc: Initialize the Go module
+    cmds:
+    - |
+
+      go mod init github.com/go-composites/sortedset
+
+  requirements:
+    desc: Add module requirements and sums
+    cmds:
+    - |
+
+      go get github.com/go-composites/array@main
+      go get github.com/go-composites/result@main
+      go get github.com/go-composites/error@main
+      go get github.com/go-composites/null@main
+      go mod tidy

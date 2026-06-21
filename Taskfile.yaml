@@ -1,0 +1,24 @@
+version: "3"
+
+includes:
+  module:
+    taskfile: ./taskfiles.d/Module.yaml
+
+tasks:
+  default:
+    silent: true
+    cmds:
+    - task --list
+
+  build:
+    desc: build the code
+    cmds:
+    - go build -o bin/sortedset
+    - ./bin/sortedset
+
+  test:
+    desc: run the tests suite
+    cmds:
+    - |
+
+      pkgx ginkgo run -v --cover ./src
