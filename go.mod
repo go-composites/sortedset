@@ -6,8 +6,8 @@ require (
 	github.com/go-composites/array v0.0.0-20260915000710-d4141b5e607e
 	github.com/go-composites/error v0.0.0-20260910233857-13fdb6fa03c6
 	github.com/go-composites/result v0.0.0-20260912234301-de30d2f90af6
-	github.com/onsi/ginkgo/v2 v2.32.2
-	github.com/onsi/gomega v1.43.0
+	github.com/onsi/ginkgo/v2 v2.33.0
+	github.com/onsi/gomega v1.43.1
 )
 
 require (
@@ -17,7 +17,7 @@ require (
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/pprof v0.0.0-20260402051712-545e8a4df936 // indirect
-	go.yaml.in/yaml/v3 v3.0.4 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/mod v0.36.0 // indirect
 	golang.org/x/net v0.56.0 // indirect
 	golang.org/x/sync v0.21.0 // indirect
