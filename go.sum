@@ -10,8 +10,8 @@ github.com/gkampitakis/go-snaps v0.5.15 h1:amyJrvM1D33cPHwVrjo9jQxX8g/7E2wYdZ+01
 github.com/gkampitakis/go-snaps v0.5.15/go.mod h1:HNpx/9GoKisdhw9AFOBT1N7DBs9DiHo/hGheFGBZ+mc=
 github.com/go-composites/array v0.0.0-20260922235702-4fc43dd1da2c h1:Eg8ksSQxZPN4vPjWxruV3n1EUhlWwoZUwTmBBEnlw1Q=
 github.com/go-composites/array v0.0.0-20260922235702-4fc43dd1da2c/go.mod h1:Y7E1LM/K6XCOe+XWLEIQIud9aO8P44/EpDAbbcUrO9Q=
-github.com/go-composites/error v0.0.0-20260918235114-2990a9d33571 h1:sAATRX+RiNmKs8y0VGzqOSJT2lVjU1MoQ8wSiLG/1HQ=
-github.com/go-composites/error v0.0.0-20260918235114-2990a9d33571/go.mod h1:PktkN9Q+mY241fMljuQNqv/W9xK3hwI0YMu41Es3rIw=
+github.com/go-composites/error v0.0.0-20260926002113-8ebf8341ff74 h1:rsAKabYMWmJmKKSfzwgGeWq04/bLz4LoPk7KU7qjOW8=
+github.com/go-composites/error v0.0.0-20260926002113-8ebf8341ff74/go.mod h1:kDkZO/jA+1YjdNuH46mZs442IZrntOY70oiaX8hS8l8=
 github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23 h1:CrztNkLeRiOTNW7QIIASY7bjwUiK78iUxgYbUpoyIWI=
 github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23/go.mod h1:6cSkTkpvobmk2/FSOCRu928lYmWCp87HyCSffyQFhVk=
 github.com/go-composites/result v0.0.0-20260920235032-53e0a08ef62b h1:BbVbZIlIYsO4wAOrE4uvFZYH5oi9xy0R7Lj+wVd8Xbg=
